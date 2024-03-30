@@ -1,0 +1,12 @@
+{
+  "name": "nebulastore",
+  "version": "0.0.1",
+  "description": "Google Play için resmi olmayan bir FOSS İstemcidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "egehan0250",
+  "license": "MIT"
+}
